@@ -1,0 +1,5 @@
+- n=25
+- task=manipulating-rope
+- mode=test
+- data_dir=data
+- disp=False
